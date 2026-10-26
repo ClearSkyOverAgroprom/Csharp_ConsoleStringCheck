@@ -1,0 +1,7 @@
+C:\Users\Anwender\Desktop\Schule\Software_Theorie_FimmenSiltmann\ConsoleStringCheck\ConsoleStringCheck\bin\Debug\ConsoleStringCheck.exe.config
+C:\Users\Anwender\Desktop\Schule\Software_Theorie_FimmenSiltmann\ConsoleStringCheck\ConsoleStringCheck\bin\Debug\ConsoleStringCheck.exe
+C:\Users\Anwender\Desktop\Schule\Software_Theorie_FimmenSiltmann\ConsoleStringCheck\ConsoleStringCheck\bin\Debug\ConsoleStringCheck.pdb
+C:\Users\Anwender\Desktop\Schule\Software_Theorie_FimmenSiltmann\ConsoleStringCheck\ConsoleStringCheck\obj\Debug\ConsoleStringCheck.csproj.AssemblyReference.cache
+C:\Users\Anwender\Desktop\Schule\Software_Theorie_FimmenSiltmann\ConsoleStringCheck\ConsoleStringCheck\obj\Debug\ConsoleStringCheck.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\Desktop\Schule\Software_Theorie_FimmenSiltmann\ConsoleStringCheck\ConsoleStringCheck\obj\Debug\ConsoleStringCheck.exe
+C:\Users\Anwender\Desktop\Schule\Software_Theorie_FimmenSiltmann\ConsoleStringCheck\ConsoleStringCheck\obj\Debug\ConsoleStringCheck.pdb
